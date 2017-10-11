@@ -1,0 +1,6 @@
+C:\Users\FLI_B_120\Desktop\C#Practice\practice2\practice2\bin\Debug\practice2.exe.config
+C:\Users\FLI_B_120\Desktop\C#Practice\practice2\practice2\bin\Debug\practice2.exe
+C:\Users\FLI_B_120\Desktop\C#Practice\practice2\practice2\bin\Debug\practice2.pdb
+C:\Users\FLI_B_120\Desktop\C#Practice\practice2\practice2\obj\Debug\practice2.exe
+C:\Users\FLI_B_120\Desktop\C#Practice\practice2\practice2\obj\Debug\practice2.pdb
+C:\Users\FLI_B_120\Desktop\C#Practice\practice2\practice2\obj\Debug\practice2.csprojResolveAssemblyReference.cache
