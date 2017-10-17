@@ -1,0 +1,6 @@
+C:\Users\FLI_B_120\Desktop\C#Practice\practice3\practice3\bin\Debug\practice3.exe.config
+C:\Users\FLI_B_120\Desktop\C#Practice\practice3\practice3\bin\Debug\practice3.exe
+C:\Users\FLI_B_120\Desktop\C#Practice\practice3\practice3\bin\Debug\practice3.pdb
+C:\Users\FLI_B_120\Desktop\C#Practice\practice3\practice3\obj\Debug\practice3.csprojResolveAssemblyReference.cache
+C:\Users\FLI_B_120\Desktop\C#Practice\practice3\practice3\obj\Debug\practice3.exe
+C:\Users\FLI_B_120\Desktop\C#Practice\practice3\practice3\obj\Debug\practice3.pdb
